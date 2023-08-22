@@ -1,26 +1,24 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Matthew Gallagher, Computer Engineering Student (2025)
+matthewg@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+<a class="button is-link" href="https://github.com/MattGallagher76/RoboticsMotionMapping/" >https://github.com/MattGallagher76/RoboticsMotionMapping/</a>
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
 
 ## Current Status
-Complete
+Ongoing
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+I would like to develop a simple, articulate robotic arm using 42-40 stepper motors in order to develop different kinematic systems in order to use a variety of inputs such as live motion mapping from external sensor data. 
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+The work required for this project would help me gain a better understandining of the fundamental of robotics as well as help me understand the seemingly complex math behind inverse kinematics. This aligns with my eventual goal to purpuse the CPE focus area of Controls, Robotics, and Atonomy.  
 
 ## Tasks
 
