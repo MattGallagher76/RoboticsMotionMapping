@@ -8,41 +8,24 @@ matthewg@vt.edu
 ## Photo
 
 ## Mentor
+Hentry Forsyth
 
 ## Current Status
-Ongoing
+In Progress
 
 ## Project Overview
-
 I would like to develop a simple, articulate robotic arm using 42-40 stepper motors in order to develop different kinematic systems in order to use a variety of inputs such as live motion mapping from external sensor data. 
 
 ## Educational Value Added
-
 The work required for this project would help me gain a better understandining of the fundamental of robotics as well as help me understand the seemingly complex math behind inverse kinematics. This aligns with my eventual goal to purpuse the CPE focus area of Controls, Robotics, and Atonomy.  
 
-## Tasks
-
-<!-- Your Text Here. See Example above -->
-
-## Design Decisions
-
-<!-- Your Text Here. See Example above -->
-
-## Design Misc
-
-<!-- Your Text Here. See Example above -->
-
-## Steps for Documenting Your Design Process
-
-<!-- Your Text Here. See Example above -->
-
 ## BOM + Component Cost
+<a class="button is-link" href="https://github.com/MattGallagher76/RoboticsMotionMapping/BOM" >Bill of Materials/</a>
 
-<!-- Your Text Here. See Example above -->
+## Plan of Action
 
-## Timeline
-
-<!-- Your Text Here. See Example above -->
+Step 1 - Research:
+TODO
 
 ## Useful Links
 
@@ -50,4 +33,4 @@ The work required for this project would help me gain a better understandining o
 
 ## Log
 
-<!-- Your Text Here. See Example above -->
+(9/25/2023) - Met with Henry to discuss the beginning of the project and the next steps with becoming set up in the AMP lab.
